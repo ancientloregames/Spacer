@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">AL Spacer</string>
+    <string name="game_logo" translatable="false">game_logo</string>
+    <string name="main_text_hiscore" translatable="false">0</string>
+    <string name="main_label_hiscore">HiScore:</string>
+    <string name="button_play">Play!</string>
+    <string name="ingame_time">Time</string>
+    <string name="ingame_fastest">Best time</string>
+    <string name="ingame_distance">Distance</string>
+    <string name="ingame_shields">Shields</string>
+    <string name="ingame_speed">Speed</string>
+    <string name="ingame_dist_remain">Distance remaining</string>
+    <string name="ingame_gameover">Game Over</string>
+    <string name="ingame_pause">Pause</string>
+    <string name="ingame_line_end">[Tap on screen, to start game]</string>
+    <string name="ingame_line_1">Hold finger on screen to move up.</string>
+    <string name="ingame_line_2">It\'ll also fasten enemy speed.</string>
+    <string name="ingame_line_3">Evade colisions with enemy ships.</string>
+    <string name="ingame_win">Victory!</string>
+</resources>

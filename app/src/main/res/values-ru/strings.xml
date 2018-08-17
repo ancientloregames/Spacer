@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_play">Играть!</string>
+    <string name="ingame_time">Время</string>
+    <string name="main_label_hiscore">Рекорд:</string>
+    <string name="ingame_win">Победа!</string>
+    <string name="ingame_speed">Скорость</string>
+    <string name="ingame_shields">Щиты</string>
+    <string name="ingame_pause">Пауза</string>
+    <string name="ingame_gameover">Игра Окончена</string>
+    <string name="ingame_fastest">Лучшее время</string>
+    <string name="ingame_distance">Расстояние</string>
+    <string name="ingame_dist_remain">Оставшееся расстояние</string>
+    <string name="ingame_line_1">Держите палец на экране, чтобы подняться</string>
+    <string name="ingame_line_2">вверх. Это также ускорит противников.</string>
+    <string name="ingame_line_3">Избегайте столкновений с ними.</string>
+    <string name="ingame_line_end">[Нажмите на экран, для начала]</string>
+</resources>
